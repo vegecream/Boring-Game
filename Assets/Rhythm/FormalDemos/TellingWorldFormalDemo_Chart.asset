@@ -1,0 +1,300 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd8b74dd69fa214780b4a552fb76ebe, type: 3}
+  m_Name: TellingWorldFormalDemo_Chart
+  m_EditorClassIdentifier: 
+  events:
+  - beat: 9
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 10
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 11
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 12
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 13
+    durationBeats: 1
+    actionType: 1
+    hand: 1
+    direction: 3
+  - beat: 15
+    durationBeats: 1
+    actionType: 1
+    hand: 2
+    direction: 4
+  - beat: 17
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 18
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 21
+    durationBeats: 1
+    actionType: 2
+    hand: 3
+    direction: 2
+  - beat: 25
+    durationBeats: 1
+    actionType: 3
+    hand: 3
+    direction: 1
+  - beat: 29
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 30
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 33
+    durationBeats: 1
+    actionType: 1
+    hand: 1
+    direction: 3
+  - beat: 35
+    durationBeats: 1
+    actionType: 1
+    hand: 2
+    direction: 4
+  - beat: 37
+    durationBeats: 1
+    actionType: 2
+    hand: 3
+    direction: 2
+  - beat: 41
+    durationBeats: 1
+    actionType: 3
+    hand: 3
+    direction: 1
+  - beat: 45
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 46
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 49
+    durationBeats: 4
+    actionType: 4
+    hand: 2
+    direction: 1
+  - beat: 57
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 58
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 61
+    durationBeats: 1
+    actionType: 2
+    hand: 3
+    direction: 2
+  - beat: 65
+    durationBeats: 1
+    actionType: 3
+    hand: 3
+    direction: 1
+  - beat: 69
+    durationBeats: 1
+    actionType: 1
+    hand: 1
+    direction: 3
+  - beat: 71
+    durationBeats: 1
+    actionType: 1
+    hand: 2
+    direction: 4
+  - beat: 73
+    durationBeats: 4
+    actionType: 4
+    hand: 1
+    direction: 1
+  - beat: 81
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 83
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 85
+    durationBeats: 1
+    actionType: 2
+    hand: 3
+    direction: 2
+  - beat: 89
+    durationBeats: 1
+    actionType: 3
+    hand: 3
+    direction: 1
+  - beat: 93
+    durationBeats: 4
+    actionType: 4
+    hand: 2
+    direction: 1
+  - beat: 101
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 102
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 103
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 104
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 105
+    durationBeats: 1
+    actionType: 1
+    hand: 1
+    direction: 3
+  - beat: 107
+    durationBeats: 1
+    actionType: 1
+    hand: 2
+    direction: 4
+  - beat: 109
+    durationBeats: 1
+    actionType: 2
+    hand: 3
+    direction: 2
+  - beat: 113
+    durationBeats: 1
+    actionType: 3
+    hand: 3
+    direction: 1
+  - beat: 117
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 118
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 121
+    durationBeats: 4
+    actionType: 4
+    hand: 1
+    direction: 1
+  - beat: 129
+    durationBeats: 1
+    actionType: 1
+    hand: 2
+    direction: 4
+  - beat: 131
+    durationBeats: 1
+    actionType: 1
+    hand: 1
+    direction: 3
+  - beat: 133
+    durationBeats: 1
+    actionType: 2
+    hand: 3
+    direction: 2
+  - beat: 137
+    durationBeats: 1
+    actionType: 3
+    hand: 3
+    direction: 1
+  - beat: 141
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 142
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 145
+    durationBeats: 4
+    actionType: 4
+    hand: 2
+    direction: 1
+  - beat: 153
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 155
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 157
+    durationBeats: 1
+    actionType: 1
+    hand: 1
+    direction: 3
+  - beat: 161
+    durationBeats: 1
+    actionType: 2
+    hand: 3
+    direction: 2
+  - beat: 165
+    durationBeats: 4
+    actionType: 4
+    hand: 1
+    direction: 1
+  - beat: 173
+    durationBeats: 4
+    actionType: 4
+    hand: 2
+    direction: 1
+  - beat: 181
+    durationBeats: 4
+    actionType: 4
+    hand: 1
+    direction: 1
+  - beat: 189
+    durationBeats: 4
+    actionType: 4
+    hand: 2
+    direction: 1

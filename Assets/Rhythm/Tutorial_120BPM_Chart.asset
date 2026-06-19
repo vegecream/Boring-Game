@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd8b74dd69fa214780b4a552fb76ebe, type: 3}
+  m_Name: Tutorial_120BPM_Chart
+  m_EditorClassIdentifier: 
+  events:
+  - beat: 2
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 4
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 4.5
+    durationBeats: 0.5
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 5
+    durationBeats: 1
+    actionType: 0
+    hand: 1
+    direction: 0
+  - beat: 7
+    durationBeats: 1
+    actionType: 0
+    hand: 2
+    direction: 0
+  - beat: 9
+    durationBeats: 1
+    actionType: 1
+    hand: 1
+    direction: 3
+  - beat: 11
+    durationBeats: 1
+    actionType: 1
+    hand: 2
+    direction: 4
+  - beat: 13
+    durationBeats: 1
+    actionType: 2
+    hand: 3
+    direction: 2
+  - beat: 15
+    durationBeats: 1
+    actionType: 3
+    hand: 3
+    direction: 1
+  - beat: 17
+    durationBeats: 8
+    actionType: 4
+    hand: 2
+    direction: 1

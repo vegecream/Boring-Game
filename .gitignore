@@ -1,0 +1,65 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Unity/IDE generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Editors
+.vs/
+.vscode/
+.idea/
+.consulo/
+
+# Unity Version Control / Plastic SCM metadata
+.plastic/
+ignore.conf
+Docs/UVCS-sync-backup-*/
+*.private*
+*.private*.meta
+
+# Local builds and captures
+*.apk
+*.aab
+*.app
+*.unitypackage
+Recordings/
+BoringWork_BurstDebugInformation_DoNotShip/
+
+# Platform/editor junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+~UnityDirMonSyncFile~*
+
+# Addressables generated build artifacts
+**/Assets/AddressableAssetsData/*/*.bin*
+**/Assets/StreamingAssets/aa.meta
+**/Assets/StreamingAssets/aa/*
+
+# Package manager local tarballs/cache
+*.tgz

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f14344d5062f42c5a0667b31f46c04d9, type: 3}
+  m_Name: Quest3_Onboarding_Guide_Sequence
+  m_EditorClassIdentifier: 
+  levels:
+  - {fileID: 11400000, guid: 8494621f05de4c7db7c1927e4c4a702b, type: 2}
+  - {fileID: 11400000, guid: 2cf523eb6b164ff38851435cbb4e9e61, type: 2}
+  - {fileID: 11400000, guid: 083dc64cc7e84cf2b2f1324b43154d1c, type: 2}
+  - {fileID: 11400000, guid: 0c80293b4f4845f2b7f0a7198d2070dd, type: 2}
+  - {fileID: 11400000, guid: e3d84efc6fb54c08a8b3435b22ee5a6e, type: 2}
+  - {fileID: 11400000, guid: 7945d04241ef4da7bb54bb55f198bb49, type: 2}
+  - {fileID: 11400000, guid: 71625f92808e41af885fe2f648e42fc7, type: 2}
+  - {fileID: 11400000, guid: 4c33b104439341bc832b916d2d21af4c, type: 2}
+  - {fileID: 11400000, guid: 48b9af4db65d4666b6ad9201c224b3a1, type: 2}

@@ -1,0 +1,64 @@
+﻿# Manual chart source for TellingWorldFormalDemo.
+# Columns: beat	durationBeats	actionType	hand	direction	note
+# actionType: Step, SideGrab, Slide, LongJump, Grapple
+# hand: None, Left, Right, Both
+# direction: None, Up, Down, Left, Right
+beat	durationBeats	actionType	hand	direction	note
+9	1	Step	Left	None	intro step
+10	1	Step	Right	None	intro step
+11	1	Step	Left	None	intro step
+12	1	Step	Right	None	intro step
+13	1	SideGrab	Left	Left	intro left grab
+15	1	SideGrab	Right	Right	intro right grab
+17	1	Step	Left	None	intro step
+18	1	Step	Right	None	intro step
+21	1	Slide	Both	Down	intro slide
+25	1	LongJump	Both	Up	intro jump
+29	1	Step	Left	None	intro step
+30	1	Step	Right	None	intro step
+33	1	SideGrab	Left	Left	verse grab
+35	1	SideGrab	Right	Right	verse grab
+37	1	Slide	Both	Down	verse slide
+41	1	LongJump	Both	Up	verse jump
+45	1	Step	Left	None	verse step
+46	1	Step	Right	None	verse step
+49	4	Grapple	Right	Up	verse grapple
+57	1	Step	Left	None	verse recovery
+58	1	Step	Right	None	verse recovery
+61	1	Slide	Both	Down	verse slide
+65	1	LongJump	Both	Up	build jump
+69	1	SideGrab	Left	Left	build grab
+71	1	SideGrab	Right	Right	build grab
+73	4	Grapple	Left	Up	build grapple
+81	1	Step	Left	None	build step
+83	1	Step	Right	None	build step
+85	1	Slide	Both	Down	build slide
+89	1	LongJump	Both	Up	build jump
+93	4	Grapple	Right	Up	build grapple
+101	1	Step	Left	None	chorus step
+102	1	Step	Right	None	chorus step
+103	1	Step	Left	None	chorus step
+104	1	Step	Right	None	chorus step
+105	1	SideGrab	Left	Left	chorus grab
+107	1	SideGrab	Right	Right	chorus grab
+109	1	Slide	Both	Down	chorus slide
+113	1	LongJump	Both	Up	chorus jump
+117	1	Step	Left	None	chorus step
+118	1	Step	Right	None	chorus step
+121	4	Grapple	Left	Up	chorus grapple
+129	1	SideGrab	Right	Right	chorus answer
+131	1	SideGrab	Left	Left	chorus answer
+133	1	Slide	Both	Down	chorus slide
+137	1	LongJump	Both	Up	chorus jump
+141	1	Step	Left	None	chorus step
+142	1	Step	Right	None	chorus step
+145	4	Grapple	Right	Up	chorus grapple
+153	1	Step	Left	None	break step
+155	1	Step	Right	None	break step
+157	1	SideGrab	Left	Left	break grab
+161	1	Slide	Both	Down	break slide
+165	4	Grapple	Left	Up	final grapple
+173	4	Grapple	Right	Up	final grapple
+181	4	Grapple	Left	Up	final grapple
+189	4	Grapple	Right	Up	final grapple
+

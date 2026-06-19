@@ -1,0 +1,22 @@
+{
+  "name": "RhythmParkour.Tests.EditMode",
+  "rootNamespace": "RhythmParkour.Tests",
+  "references": [
+    "RhythmParkour.Runtime",
+    "BoringRun.VRInput"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
