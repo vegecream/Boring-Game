@@ -10,14 +10,14 @@ The project was developed as a short VR music parkour demo: one fixed route, fiv
 
 If the embedded player is not shown, open the demo video directly:
 
-[Watch rhythm_parkour.mp4](Docs/rhythm_parkour.mp4)
+[Watch rhythm_parkour.mp4](https://github.com/user-attachments/assets/f638a39d-fc72-4cb6-9ac4-17b0c14b816f)
 
 ## 分工合作
 
 | 模块 | 负责人 | 主要工作 |
 | --- | --- | --- |
 | 节奏与音乐系统 | 张博瑞、倪煜晖 | 根据 BPM 和首拍偏移生成节拍判定区间，维护动态速度倍率、命中恢复和失误惩罚 |
-| VR 输入与动作判定 | 邓建斌 | 读取左右手控制器输入与方向，将玩家动作映射为 Step、Slide、Jump、Side Grab、Grapple 等事件 |
+| VR 输入与动作判定 | 邓建斌、倪煜晖 | 读取左右手控制器输入与方向，将玩家动作映射为 Step、Slide、Jump、Side Grab、Grapple 等事件 |
 | 单动作 Demo 与教程 | 张博瑞、邓建斌 | 制作五类基础动作的小 Demo，验证每种动作的节奏窗口、输入方式和反馈表现 |
 | 第一人称反馈 | 张博瑞、邓建斌 | 设计镜头父节点的小幅运动曲线、命中反馈、失误震动、速度感后处理和 VR 舒适性参数 |
 | 场景与关卡生成 | 张博瑞 | 根据人工谱面顺序摆放交互物体，生成线性跑酷路线、视觉预览和终点传送门 |
