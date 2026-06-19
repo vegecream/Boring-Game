@@ -23,6 +23,7 @@
 *.psd binary
 *.wav binary
 *.mp3 binary
+*.mp4 binary
 *.fbx binary
 *.blend binary
 *.anim binary
